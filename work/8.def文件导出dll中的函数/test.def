@@ -1,0 +1,4 @@
+EXPORTS
+	test
+	_my_print @123
+	_hidd @12 NONAME

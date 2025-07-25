@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7.把exe复制进内存", "7.把exe复制进内存.vcxproj", "{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Debug|x64.ActiveCfg = Debug|x64
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Debug|x64.Build.0 = Debug|x64
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Debug|x86.Build.0 = Debug|Win32
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Release|x64.ActiveCfg = Release|x64
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Release|x64.Build.0 = Release|x64
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Release|x86.ActiveCfg = Release|Win32
+		{872BDE2C-D2D2-47DB-9D11-E898CE31EDAD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06B486F-58C9-491E-BB02-89BCAC48F9E7}
+	EndGlobalSection
+EndGlobal
