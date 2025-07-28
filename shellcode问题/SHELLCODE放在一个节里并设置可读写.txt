@@ -1,0 +1,5 @@
+#pragam (linker, "/section:.data,RWE"
+
+放到data段， 之后CreateThread执行
+HANDLE F =CreateThread(NULL,NULL,(lpthread_start_routing)(DWORD)shellcode,null,nullnull)
+waitsigneobject(f, INFINTE)
