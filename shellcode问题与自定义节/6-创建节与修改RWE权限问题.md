@@ -1,6 +1,7 @@
 # 用 #pragma section与#pragma code_seg/data_seg都能创建节
 
-## 用section修改read, write, execute时， 不能修改为write, 要修改vs配置文件， 但用 #pragma comment(linker, "/section:.mycode,RWE")能修改成功
+## 用section修改read, write, execute时， 不能修改为write， 但用 #pragma comment(linker, "/section:.mycode,RWE")能修改成功
+
 ## 用section创建节
 ```cpp
 #pragma comment(linker, "/section:.mycode,RWE")
